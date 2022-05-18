@@ -1,6 +1,0 @@
-#!bin/bash
-
-#connecting to ec2 terminal using intellij terminal without a keypair where username and passwords are predefined
-
-command : ssh <username>@<server_address>
-
