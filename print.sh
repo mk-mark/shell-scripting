@@ -1,5 +1,5 @@
 #!/bin/bash
-echo auto commit
+echo auto commit done
 echo Hello World
 
 ## Color Codes
